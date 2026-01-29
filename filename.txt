@@ -1,0 +1,3 @@
+Here we have a file that contains a number of different things. The idea of this file name is give me a rough idea of some text that I can add into the Python script that I am creating. It's from this scrip that the program will be able to pull a bunch of text and then sort it out. The idea behind this all is to give me an idea of how dictionaries and lists can work together to create something wonderful. 
+
+Of of of of of of of the next and of the rest.
