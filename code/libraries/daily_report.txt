@@ -1,0 +1,9 @@
+[15:58:$S] User Login
+[15:58:$S] Database Backup
+[15:58:$S] Disk Full Alert
+[15:59:11] User Login
+[15:59:11] Database Backup
+[15:59:11] Disk Full Alert
+[15:59:24] User Login
+[15:59:24] Database Backup
+[15:59:24] Disk Full Alert
