@@ -1,0 +1,5 @@
+{
+  "log_dictionary": "./logs",
+  "search_term": "CRTICAL",
+  "max_errors_allowed": 5
+}
