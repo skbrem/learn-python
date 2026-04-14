@@ -1,0 +1,6 @@
+[2026-04-14 15:54:05] - https://google.com - 429
+[2026-04-14 15:54:05] - https://github.com - 200
+[2026-04-14 15:54:07] - https://this-is-fake.com - 200
+[2026-04-14 15:54:59] - https://google.com - 429
+[2026-04-14 15:54:59] - https://github.com - 200
+[2026-04-14 15:54:59] - https://this-is-the-fakest-website-ever-bruh.com - DOWN

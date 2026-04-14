@@ -1,0 +1,8 @@
+{
+  "environments": "production",
+  "targets": [
+    "https://google.com",
+    "https://github.com",
+    "https://this-is-the-fakest-website-ever-bruh.com"  
+  ]
+}
