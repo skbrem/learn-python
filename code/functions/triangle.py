@@ -6,4 +6,4 @@ def line(length, content):
 
 def triangle(number):
     for i in range(number):
-
+        line(i + 1, "#")
